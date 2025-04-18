@@ -10,3 +10,4 @@ change admin id
 (in bot.js)
 Type $help in discord channel
 GOOD!
+Contacts: telegram @kkvlost
